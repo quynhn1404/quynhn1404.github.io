@@ -1,5 +1,5 @@
 # vue-website
-
+Hey, welcome to the code my website. I'm learning Vue at the moment, so launching my website using Vue would be a great opportunity for me to ~~struggle~~ work with VueJS
 ## Project setup
 ```
 npm install
